@@ -2,10 +2,9 @@
 
 🔥 Third year student studying Industrial Engineering @ UofT. Passionate about game theory and data science.
 
-- Reach me at <jet.chang@mail.utoronto.ca>, (or for any LoL inquiries 🤓, at <jcjmidking@gmail.com>)
+- You can reach me at <jet.chang@mail.utoronto.ca>
 - I'm currently reading: *Theory of Games and Economic Behavior* by Von Neumann
 
-
-Back in my prime ...
+😎 Fun fact: Peaked top 50 and ended Challenger in LoL 2024
 
 <img src="chall_ss.png" width="200" />

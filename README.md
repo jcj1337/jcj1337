@@ -5,8 +5,4 @@
 - You can reach me at <jet.chang@mail.utoronto.ca>
 - I'm currently reading: *Theory of Games and Economic Behavior* by John von Neumann
 
-😎 Fun fact: Peaked top 50 Challenger in LoL (2024) and interested in Philosophy (existentialism)
-
-<p align="center">
-  <img src="chall_ss.png" width="200" />
-</p>
+😎 Fun fact: Peaked top 50 Challenger in LoL (2024) 

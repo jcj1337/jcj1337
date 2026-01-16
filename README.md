@@ -1,6 +1,6 @@
 ##  Hi, I'm Jet. 
 
-🔥 Third year studying Industrial Engineering and AI @ UofT. Passionate about game theory and data science.
+I'm in my third year studying Industrial Engineering and AI @ UofT. Passionate about game theory and data science.
 
 - You can reach me at <jet.chang@mail.utoronto.ca>
 - I'm currently reading: *Theory of Games and Economic Behavior* by John von Neumann

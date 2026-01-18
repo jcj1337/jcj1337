@@ -5,4 +5,4 @@ I'm in my third year studying Industrial Engineering and AI @ UofT. Passionate a
 - You can reach me at <jet.chang@mail.utoronto.ca>
 - I'm currently reading: *Theory of Games and Economic Behavior* by John von Neumann
 
-😎 Fun fact: Peaked top 50 Challenger in LoL (2024) 
+😎 Fun fact: Hit top 50 Challenger in LoL (2024) 

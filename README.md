@@ -3,7 +3,7 @@
 I'm in my third year studying Industrial Engineering and AI @ UofT. Passionate about game theory and data science.
 
 Check out da website: 
-https://jcj1337.github.io/index.html
+https://jcj1337.github.io
 
 - You can reach me at <jet.chang@mail.utoronto.ca>
 😎 Fun fact: Hit top 50 Challenger in LoL (2024) 

@@ -18,7 +18,6 @@ Find me here:
 **qwer's Backyard** — building a League-inspired mechanics warmup/trainer with wave-based combat, custom enemy AI, ability/cast systems, inspired by queuedodger. End-goal is to host on a website anyone can play off of while waiting in queue/bored in class. 
 
 **Current stack:** 
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-222222?style=flat&logo=phaser&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)

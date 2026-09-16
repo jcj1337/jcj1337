@@ -8,7 +8,8 @@ Find me here:
 🌐 [jcj1337.github.io](https://jcj1337.github.io)  
 📫 jet.chang@mail.utoronto.ca
 
-2.1k LP · Top 50 League of Legends peak ^_^
+2.1k LP · Top 50 League of Legends peak (💀)
+
 [OP.GG](https://op.gg/lol/summoners/na/HEY%20I%20JUST%20MET%20U-qwer) 
 
 ---

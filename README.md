@@ -5,6 +5,7 @@ Third-year Industrial Engineering + AI student @ University of Toronto
 Passionate about machine learning, game theory, and building cool stuff
 
 Find me here: 
+
 🌐 [jcj1337.github.io](https://jcj1337.github.io)  
 📫 jet.chang@mail.utoronto.ca
 

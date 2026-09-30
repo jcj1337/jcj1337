@@ -25,7 +25,7 @@ Find me here:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-**TCGracker** — building a Pokémon card market intelligence platform with RAG, marketplace analysis, and a grounded AI assistant, looking to be a better Collectr. 
+**TCGracker** — building a Pokémon card market intelligence platform with RAG, marketplace analysis, and a grounded AI assistant, looking to be a better Collectr. Currently looking into deployment on cloud
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

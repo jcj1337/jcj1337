@@ -34,3 +34,6 @@ Find me here:
 ![BM25](https://img.shields.io/badge/BM25-Search-555555?style=flat)
 ![MiniLM](https://img.shields.io/badge/MiniLM-Embeddings-orange?style=flat)
 ![Claude AI](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)

@@ -17,7 +17,7 @@ Find me here:
 
 ### 🛠️ Currently working on
 
-**handsdiff** — First prototype is live at 🌐[handsdiff](www.handsdiff.com)  
+**handsdiff** — First prototype is live at 🌐[handsdiff]([www.handsdiff.com](https://www.handsdiff.com))  
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

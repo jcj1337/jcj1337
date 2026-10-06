@@ -17,7 +17,7 @@ Find me here:
 
 ### 🛠️ Currently working on
 
-**qwer's Backyard** — building a LoL mechanics warmup/trainer with wave-based combat, custom enemy AI, ability/cast systems, inspired by queuedodger. End-goal is to host on a website anyone can play off of while waiting in queue/bored in class. 
+**handsdiff** — First prototype is live at 🌐[handsdiff](www.handsdiff.com)  
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -25,7 +25,7 @@ Find me here:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-**TCGracker** — building a Pokémon card market intelligence platform looking to be a better Collectr. Currently working towards deployment on cloud. 
+**TCGracker** — building a Pokémon card market intelligence platform looking to be a better Collectr. Currently working towards deployment on cloud
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

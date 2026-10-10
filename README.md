@@ -17,7 +17,8 @@ Find me here:
 
 ### 🛠️ Currently working on
 
-**handsdiff** — First prototype is live at [🌐 handsdiff](https://handsdiff.com)
+**handsdiff** —  [🌐 handsdiff](https://handsdiff.com) looking to implement f-keys next, which will let you spectate a bot with optimal play. Scalable chatbox, and APM display fix (don't allow spamming keys) next. 
+
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

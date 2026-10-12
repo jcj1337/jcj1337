@@ -17,16 +17,17 @@ Find me here:
 
 ### 🛠️ Currently working on
 
-**handsdiff** —  [🌐 handsdiff](https://handsdiff.com) looking to implement f-keys next, which will let you spectate a bot with optimal play. Scalable chatbox, and APM display fix (don't allow spamming keys) next. 
+**handsdiff** —  [🌐 handsdiff](https://handsdiff.com) looking to implement f-keys next, which will let you spectate a bot with optimal play. Scalable chatbox, and APM display fix (don't allow spammable keys) next. 
 
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-222222?style=flat&logo=phaser&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-**TCGracker** — building a Pokémon card market intelligence platform looking to be a better Collectr. Currently working towards deployment on cloud
+**LoL Laning Strategy Exploration** — [GitHub](https://github.com/jcj1337/lol_laning_gt_rl) — building a simplified, quantitative League of Legends laning simulator using game theory and MARL to explore whether agents can independently discover effective strategies in the game. Mathematical rules for the game from scratch and representative of laning itself. 
+
+**TCGracker** — building a Pokémon card market intelligence platform looking to be a better Collectr. Currently looking for better ways to get ebay last sold data
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -37,4 +38,3 @@ Find me here:
 ![Claude AI](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)

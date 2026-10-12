@@ -17,15 +17,14 @@ Find me here:
 
 ### 🛠️ Currently working on
 
-**handsdiff** —  [🌐 handsdiff](https://handsdiff.com) looking to implement f-keys next, which will let you spectate a bot with optimal play. Scalable chatbox, and APM display fix (don't allow spammable keys) next. 
+**LoL Laning Strategy Exploration** — [GitHub](https://github.com/jcj1337/lol_laning_gt_rl) — building a simplified, quantitative League of Legends laning simulator using game theory and MARL to explore whether agents can independently discover effective strategies in the game. Mathematical rules for the game from scratch and representative of laning itself. 
 
+**handsdiff** —  [🌐 handsdiff](https://handsdiff.com) looking to implement f-keys next, which will let you spectate a bot with optimal play. Scalable chatbox, and APM display fix (don't allow spammable keys) next. 
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-222222?style=flat&logo=phaser&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**LoL Laning Strategy Exploration** — [GitHub](https://github.com/jcj1337/lol_laning_gt_rl) — building a simplified, quantitative League of Legends laning simulator using game theory and MARL to explore whether agents can independently discover effective strategies in the game. Mathematical rules for the game from scratch and representative of laning itself. 
 
 **TCGracker** — building a Pokémon card market intelligence platform looking to be a better Collectr. Currently looking for better ways to get ebay last sold data
 

@@ -9,7 +9,7 @@ Find me here:
 🌐 [jcj1337.github.io](https://jcj1337.github.io)  
 📫 jet.chang@mail.utoronto.ca
 
-2.1k LP · Top 50 League of Legends peak (💀)
+2.1k LP · Top 50 League of Legends peak (💀) MID KING > ML KING PIPELINE (😝)
 
 [OP.GG](https://op.gg/lol/summoners/na/HEY%20I%20JUST%20MET%20U-qwer) 
 
@@ -19,14 +19,14 @@ Find me here:
 
 **LoL Laning Strategy Exploration** — [GitHub](https://github.com/jcj1337/lol_laning_gt_rl) — building a simplified, quantitative League of Legends laning simulator using game theory and MARL to explore whether agents can independently discover effective strategies in the game. Mathematical rules for the game from scratch and representative of laning itself. 
 
-**handsdiff** —  [🌐 handsdiff](https://handsdiff.com) looking to implement f-keys next, which will let you spectate a bot with optimal play. Scalable chatbox, and APM display fix (don't allow spammable keys) next. 
+**handsdiff** —  [🌐 handsdiff](https://handsdiff.com) Animations revamp and sound up next 
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-222222?style=flat&logo=phaser&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-**TCGracker** — building a Pokémon card market intelligence platform looking to be a better Collectr. Currently looking for better ways to get ebay last sold data
+**TCGracker** — Looking to extend the DS portion: firstly making EV calculations per product (e.g. at MSRP, what is the expected value if you open a booster bundle of set X?). 
 
 **Current stack:** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
